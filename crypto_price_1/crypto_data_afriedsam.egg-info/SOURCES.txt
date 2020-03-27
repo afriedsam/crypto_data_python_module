@@ -1,5 +1,0 @@
-setup.py
-crypto_data_afriedsam.egg-info/PKG-INFO
-crypto_data_afriedsam.egg-info/SOURCES.txt
-crypto_data_afriedsam.egg-info/dependency_links.txt
-crypto_data_afriedsam.egg-info/top_level.txt
